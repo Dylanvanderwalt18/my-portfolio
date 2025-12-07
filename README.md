@@ -22,6 +22,6 @@ Loyola University Maryland
 - In this project, I created a multi-worksheet Excel workbook to track inventory for a fake small business. I built a list of 10+ items and included key product details such as purchase price, selling price, item category, and other relevant information. Using formulas, I calculated the estimated profit and flagged whether each item’s profit margin should be improved.
 
 ***
-#### Project 3 Title
-- ![Image](link-to-image)
-- Write-up here
+#### ATM simulation
+- ![Image](Pictures/Screenshot 2025-12-07 at 4.33.00 PM.png)
+- For this project, I developed a functional ATM simulation using MATLAB. The program allows a user to check their account balance, make deposits, and withdraw funds — all through a simple command-line menu interface.

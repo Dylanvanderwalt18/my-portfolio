@@ -13,7 +13,7 @@ Loyola University Maryland
 ### Projects
 
 #### Project 1 Title
-- ![Image](/Pictures/for port.png)
+- ![Image](Pictures/for port.png)
 - For this assignment, I created a fully organized Microsoft Outlook weekly calendar to manage my academic schedule. I added all five of my recurring classes, plus additional events, and applied a color-coding system to show differences in course types and priorities.
 ***
 #### Project 2 Title

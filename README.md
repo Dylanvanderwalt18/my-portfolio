@@ -12,13 +12,14 @@ Loyola University Maryland
 
 ### Projects
 
-#### Project 1 Title
+#### Making a schedule
 - ![Image](Pictures/for port.png)
 - For this assignment, I created a fully organized Microsoft Outlook weekly calendar to manage my academic schedule. I added all five of my recurring classes, plus additional events, and applied a color-coding system to show differences in course types and priorities.
+
 ***
-#### Project 2 Title
-- ![Image](link-to-image)
-- Write-up here
+#### Creating a budget tracker
+- ![Image](Pictures/for port 2.png)
+- In this project, I created a multi-worksheet Excel workbook to track inventory for a fake small business. I built a list of 10+ items and included key product details such as purchase price, selling price, item category, and other relevant information. Using formulas, I calculated the estimated profit and flagged whether each item’s profit margin should be improved.
 
 ***
 #### Project 3 Title
